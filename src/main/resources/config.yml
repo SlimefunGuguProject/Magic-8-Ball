@@ -1,9 +1,9 @@
 options:
   auto-update: true
-  lang: en-US
+  lang: zh-CN
 
 # below are all languages supported
-# by default en-US, pt-BR
+# by default en-US, pt-BR, zh-CN
 # you can add new languages below, and set it in the lang field above
 # after each addon update make sure to re-check this file
 # to see if your added language continues here
@@ -122,7 +122,7 @@ languages:
       registering-geo: "正在注册GEO资源..."
       loading-items: "正在加载物品..."
       loading-researches: "正在加载研究..."
-      addon-enabled: "启用 Magic8Ball 附属"
+      addon-enabled: "已启用 Magic8Ball 附属"
       addon-disabled: "未启用 Magic8Ball 附属"
       loading-language: "正在加载语言..."
       loaded-language: "已加载语言:"
