@@ -50,7 +50,7 @@ public class Magic8Ball extends JavaPlugin implements SlimefunAddon {
     @Override
     public String getBugTrackerURL() {
         // You can return a link to your Bug Tracker instead of null here
-        return "https://github.com/xMoonGames/Magic-8-Ball/issues";
+        return "https://github.com/SlimefunGuguProject/Magic-8-Ball/issues";
     }
 
     @Nonnull
